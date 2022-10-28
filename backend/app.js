@@ -7,7 +7,7 @@ const app = express();
 const db = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "admin",
+  password: "1234",
   database: "nest_admin",
 });
 
